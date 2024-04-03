@@ -1,3 +1,3 @@
-[submodule "face-recognition"]
-	path = face-recognition
-	url = https://github.com/josephclydemar/face-recognition.git
+[submodule "hw-raspi-code"]
+	path = hw-raspi-code
+	url = https://github.com/josephclydemar/hw-raspi-code.git
