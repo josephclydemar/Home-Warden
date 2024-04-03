@@ -1,3 +1,6 @@
 [submodule "hw-raspi-code"]
 	path = hw-raspi-code
 	url = https://github.com/josephclydemar/hw-raspi-code.git
+[submodule "hw-mobile-application"]
+	path = hw-mobile-application
+	url = https://github.com/josephclydemar/hw-mobile-application.git
