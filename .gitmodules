@@ -4,3 +4,6 @@
 [submodule "hw-mobile-application"]
 	path = hw-mobile-application
 	url = https://github.com/josephclydemar/hw-mobile-application.git
+[submodule "hw-remote-server"]
+	path = hw-remote-server
+	url = https://github.com/josephclydemar/hw-remote-server.git
