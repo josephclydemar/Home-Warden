@@ -1,5 +1,11 @@
 # Home Warden
+### Facial Recognition-Enabled Home Entry Management with Integrated Real-Time Remote Monitoring and Access Control
+
+
+<small>
+
 `Home Warden` is an advanced home security system that leverages facial recognition technology to provide comprehensive protection for households. This innovative system is designed to detect and deter unauthorized access, monitor activity, and enhance overall safety within the home environment.
+
 
 Key Features:
 1. Facial Recognition: `Home Warden` utilizes state-of-the-art facial recognition algorithms to accurately identify individuals entering or exiting the premises. By analyzing facial features, the system can distinguish between authorized residents, guests, and potential intruders.
@@ -15,3 +21,40 @@ Key Features:
 6. Privacy Protection: `Home Warden` prioritizes user privacy and data security, employing robust encryption protocols to safeguard sensitive information. Facial recognition data is securely stored locally within the system, ensuring that it remains protected from external threats.
 
 Overall, `Home Warden` provides homeowners with peace of mind knowing that their property is protected by advanced facial recognition technology and comprehensive security features. With its intuitive interface, real-time alerts, and seamless integration, `Home Warden` is the ultimate solution for modern home security needs.
+
+</small>
+
+---
+
+## CPE462 Practice and Design 2
+
+<br>
+
+---
+
+## Tech Stack
+
+<small>
+
+- Python
+- TypeScript
+- NodeJS
+- React-Native
+
+</small>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
