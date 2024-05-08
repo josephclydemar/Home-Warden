@@ -52,6 +52,8 @@ Overall, `Home Warden` provides homeowners with peace of mind knowing that their
 git clone https://github.com/josephclydemar/Home-Warden.git --recurse-submodules
 ```
 
+<small>Open a terminal for each of the subsequent steps.</small>
+
 **Step 2:**
 ```
 cd hw-remote-server/
