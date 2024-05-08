@@ -40,14 +40,37 @@ Overall, `Home Warden` provides homeowners with peace of mind knowing that their
 - TypeScript
 - NodeJS
 - React-Native
+- MongoDB
 
 </small>
 
 ---
 
+### Instructions
+**Step 1:**
+```
+git clone https://github.com/josephclydemar/Home-Warden.git --recurse-submodules
+```
 
+**Step 2:**
+```
+cd hw-remote-server/
+yarn dev
+```
 
+**Step 3:**
+```
+cd hw-mobile-application/homewarden/
+yarn android
+```
 
+**Step 4:**
+```
+cd hw-raspi-code/
+source ./hw-raspi-code-venv/bin/activate
+pip install -r requirements.txt
+python ./src/main.py
+```
 
 
 
