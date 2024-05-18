@@ -1,4 +1,4 @@
-# Home Warden
+# HOME WARDEN
 ### Facial Recognition-Enabled Home Entry Management with Integrated Real-Time Remote Monitoring and Access Control
 
 
